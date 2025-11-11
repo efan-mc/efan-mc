@@ -1,5 +1,5 @@
-# 🤸‍♂️ About Me:
-Efan McComas<br>I’m a Computer Science student at Swansea University passionate about full-stack development, cybersecurity, and data science. I enjoy building interactive web apps and experimenting with automation and home-lab projects.
+# 🗿 About Me:
+I’m a Computer Science student at Swansea University passionate about full-stack development, cybersecurity, and data science. I enjoy building interactive web apps and experimenting with automation and home-lab projects.
 
 
 # 💻 Tech Stack:
